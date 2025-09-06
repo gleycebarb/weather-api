@@ -1,14 +1,10 @@
 <h1 align="center"> 🌤️ Previsão do Tempo </h1>
 
 <p align="center">
-Aplicação web para consultar a previsão do tempo em tempo real de qualquer cidade do mundo. <br/>
+Aplicação web para consultar a previsão do tempo em tempo real de qualquer cidade do mundo. Atividade de Programação Web <br/>
 Consome dados da <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a> e apresenta informações como temperatura, umidade, vento, pressão, visibilidade e muito mais.
 </p>
 <br>
-
-<p align="center">
-  <img alt="Previsão do Tempo" src=".github/preview.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -36,3 +32,4 @@ O **Previsão do Tempo** é uma aplicação web simples que permite pesquisar po
   - ☀️ Índice UV  
   - 🕒 Horário local da cidade pesquisada  
 - Mensagem de erro caso a cidade não seja encontrada.  
+
