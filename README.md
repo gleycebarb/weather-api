@@ -4,18 +4,6 @@
 Aplicação web para consultar a previsão do tempo em tempo real de qualquer cidade do mundo. <br/>
 Consome dados da <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a> e apresenta informações como temperatura, umidade, vento, pressão, visibilidade e muito mais.
 </p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=1a73e8&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
